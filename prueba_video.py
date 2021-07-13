@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1OYeSoRY8Hb5T--_7p2YEusFu2s7l5Tvi
 """
 
-!git clone https://github.com/vladip11/ProyectoSIS330.git
+# !git clone https://github.com/vladip11/ProyectoSIS330.git
 
-cd ProyectoSIS330/
+# cd ProyectoSIS330/
 
-!python setup.py install
+# !python setup.py install
 
 import os
 import sys
